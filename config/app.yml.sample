@@ -1,0 +1,3 @@
+all:
+  whos_online:
+    time:      10 # time in minute

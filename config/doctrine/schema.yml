@@ -1,0 +1,8 @@
+WhosOnlineSession:
+  actAs:
+    Timestampable: ~
+  columns:
+    session_id: string(100)
+    user_id:
+      type: integer(4)
+    
